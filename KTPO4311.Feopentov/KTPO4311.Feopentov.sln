@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4311.Feopentov.UnitTest", "KTPO4311.Feopentov.UnitTest\KTPO4311.Feopentov.UnitTest.csproj", "{E482573F-B528-4027-9EAC-E454F23C47D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4311.Feopentov.Lib", "KTPO4311.Feopentov.Lib\KTPO4311.Feopentov.Lib.csproj", "{9AB0C847-CAF4-4E97-A40B-56C9B28568A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E482573F-B528-4027-9EAC-E454F23C47D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E482573F-B528-4027-9EAC-E454F23C47D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E482573F-B528-4027-9EAC-E454F23C47D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E482573F-B528-4027-9EAC-E454F23C47D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB0C847-CAF4-4E97-A40B-56C9B28568A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB0C847-CAF4-4E97-A40B-56C9B28568A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB0C847-CAF4-4E97-A40B-56C9B28568A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB0C847-CAF4-4E97-A40B-56C9B28568A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD500C6-67E4-4617-840F-87147847FD1B}
+	EndGlobalSection
+EndGlobal

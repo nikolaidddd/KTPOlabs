@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLUxjqlXz+EiMCQP0ozrzkD5IpH7h/nMW6m9fQyXP5Du23y9VV3yIT8N5/jUrpn8XqzQ3DlbN/uroWOFxcXepQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feope\\source\\lab3\\KTPO4311.Feopentov\\KTPO4311.Feopentov.Service\\KTPO4311.Feopentov.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feope\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\feope\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
